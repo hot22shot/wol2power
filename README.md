@@ -4,7 +4,7 @@ The script is not mine but from supczinskib (https://github.com/sipeed/NanoKVM/i
 
 ## Installation
 * retreive the MAC address of the host pc
-* put the two scripts in /root
+* put the two scripts in the /root directory of the nanokvm
 * make them executable with chmod +x
 * add the following line in /etc/inittab with the correct mac address :
 ```
