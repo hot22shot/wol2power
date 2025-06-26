@@ -1,6 +1,6 @@
 # wol2power for nanokvm
 Little script for nanokvm that listen for a particular MAC Adress and power ON the host PC.
-The script is not mine but from supczinskib (https://github.com/sipeed/NanoKVM/issues/533), I just replaced his space key call to a script that use nanokvm command to power on the host.
+The script is not mine but from supczinskib (https://github.com/sipeed/NanoKVM/issues/533), I just replaced his space key call to a script that use nanokvm commands to power on the host.
 
 ## Installation
 * retreive the MAC address of the host pc
