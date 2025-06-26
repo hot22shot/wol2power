@@ -22,3 +22,5 @@ Before using this script I had tried other ways :
 * But I had to log on the Shelly web interface to activate the plug each time I wanted the PC to boot.
 
 As most Apollo/Sunshine clients (Moonlight and its forks) include sending WOL magic packets this script is most convenient for my usage, I can directly wake up my PC from my TV.
+
+Of course as it is not true WOL I still have to manually shut down the PC each time I finish a game session.
