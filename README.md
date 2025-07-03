@@ -23,5 +23,5 @@ Before using this script I had tried other ways :
 
 As most Apollo/Sunshine clients (Moonlight and its forks) include sending WOL magic packets this script is most convenient for my usage, I can directly wake up my PC from my TV.
 
-Of course as it is not true WOL I still have to shut down the PC each time I finish a game session.
+Of course as it is not true WOL, I still have to shut down the PC each time I finish a game session.
 In order to do that I use Don't Sleep (https://www.softwareok.com/?Download=DontSleep) that automatically shutdown my Apollo host after a period of inactivity.
